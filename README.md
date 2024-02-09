@@ -4,7 +4,7 @@
 Welcome to my Python Learning Repository! This repository serves as a collection of Jupyter Notebooks where I document and practice various aspects of Python programming. Whether you're a beginner or looking to brush up on your Python skills, feel free to explore the notebooks to gain insights into Python concepts and best practices.
 
 ## Repository Structure
-The repository is organized into different folders, each focusing on a specific topic or concept. Below is a brief description of each folder:
+The repository is organized into different file, each focusing on a specific topic or concept. Below is a brief description of each file:
 
 - **PythonBasics:** Fundamental Python concepts and syntax.
 - **Data_Structures:** Exploring different data structures in Python.
